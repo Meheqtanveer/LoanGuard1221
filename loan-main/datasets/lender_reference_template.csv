@@ -1,0 +1,11 @@
+lender_id,lender_name,regulated_entity,app_names,official_domains,contact_phone,contact_email,source,last_updated
+RBI-REG-001,Bajaj Finance Limited,NBFC-ICC,Bajaj Finserv;Bajaj Finserv App,bajajfinserv.in;bajajfinance.in,020-71576403,wecare@bajajfinserv.in,RBI Master List of NBFCs,2026-08-15
+RBI-REG-002,HDFC Bank Limited,Scheduled Commercial Bank,HDFC Bank MobileBanking;PayZapp,hdfcbank.com,18002026161,support@hdfcbank.com,RBI Schedule II Banking Roster,2026-09-01
+RBI-REG-003,Krazybee Services Private Limited,NBFC-ND-SI,KreditBee;KreditBee Quick Loan,kreditbee.in;krazybee.com,080-44292200,help@kreditbee.in,RBI DLA Registry,2026-07-20
+RBI-REG-004,State Bank of India,Scheduled Commercial Bank,YONO SBI;SBI Quick,sbi.co.in;onlinesbi.sbi,18001234,customercare@sbi.co.in,RBI Schedule II Banking Roster,2026-09-10
+RBI-REG-005,Earlysalary Services Private Limited,NBFC-ICC,Fibe;EarlySalary,fibe.in;earlysalary.com,020-67639797,care@fibe.in,RBI Digital Lending Directory,2026-08-01
+RBI-REG-006,PayU Finance India Private Limited,NBFC-ICC,LazyPay,lazypay.in;payufin.com,022-69821111,wecare@lazypay.in,RBI DLA Registry,2026-06-30
+RBI-REG-007,Whizdm Innovations Private Limited,NBFC-ICC,moneyview,moneyview.in,080-69390476,feedback@moneyview.in,RBI DLA Registry,2026-08-25
+RBI-REG-008,Tata Capital Financial Services Limited,NBFC-UL,Tata Capital,tatacapital.com,18602676060,contactus@tatacapital.com,RBI Master List of NBFCs,2026-09-12
+RBI-REG-009,IDFC FIRST Bank Limited,Scheduled Commercial Bank,IDFC FIRST Bank App,idfcfirstbank.com,180010888,banker@idfcfirstbank.com,RBI Schedule II Banking Roster,2026-07-15
+RBI-REG-010,Piramal Capital & Housing Finance Limited,Housing Finance Company,Piramal Finance,piramalfinance.com,18002666444,customercare@piramal.com,National Housing Bank & RBI Register,2026-08-30

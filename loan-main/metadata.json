@@ -1,0 +1,6 @@
+{
+  "name": "LoanGuard – Multidimensional Loan Ad Risk Analyzer",
+  "description": "AI-powered multidimensional risk intelligence platform analyzing digital loan advertisements for fraud indicators, suspicious claims, RBI lender registry verification, financial transparency, and scam network connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
